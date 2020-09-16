@@ -1,0 +1,11 @@
+.main-header {
+    background: url(../img/playa4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+}
